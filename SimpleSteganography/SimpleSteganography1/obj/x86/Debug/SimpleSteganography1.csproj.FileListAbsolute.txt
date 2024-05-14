@@ -1,0 +1,9 @@
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.exe
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.pdb
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csprojAssemblyReference.cache
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Form1.resources
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.GenerateResource.cache
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.CoreCompileInputs.cache
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.exe
+C:\Users\george\Downloads\SimpleSteganography1 (2)\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.pdb
